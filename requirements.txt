@@ -1,7 +1,9 @@
 librosa
+numpy
+tqdm
+gradio
+joblib
 matplotlib
-tensorflow
 scikit-learn
 numpy
-pandas
 jupyter
