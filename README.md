@@ -10,6 +10,15 @@ This project is a machine learning-based system that classifies `.wav` audio fil
 - **Interface**: Chat-based prediction using Gradio's audio upload and response system.
 - **Evaluation**: Classification report, confusion matrix, and feature importance visualization.
 
+# Dataset
+
+The GTZAN Genre Collection is one of the most widely used benchmark datasets for music genre classification. It contains 1,000 audio tracks, each 30 seconds long, across 10 distinct genres.
+
+
+## You can find the dataset via the link below
+
+ https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
 
 ## 📚 Tools Used
 - Python
